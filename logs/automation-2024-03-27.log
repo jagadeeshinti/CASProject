@@ -1,0 +1,51 @@
+09:54:54.120 [main] INFO  testCases.TestCase_001_TimeSheetValidation - three weeks of timesheet
+09:54:59.678 [main] INFO  testCases.TestCase_001_TimeSheetValidation - Displayed current week
+09:55:22.309 [main] INFO  testCases.TestCase_001_TimeSheetValidation - displayed  tsStatusApprovedInfo
+09:55:31.726 [main] INFO  testCases.TestCase_001_TimeSheetValidation - displayed tsStatusOverdueInfo
+09:55:41.119 [main] INFO  testCases.TestCase_001_TimeSheetValidation - displayed tsStatusPartiallyApprovedInfo
+09:55:50.714 [main] INFO  testCases.TestCase_001_TimeSheetValidation - displayed tsStatusPendingInfo 
+09:56:00.188 [main] INFO  testCases.TestCase_001_TimeSheetValidation - displayed tsStatusSavedInfo
+09:56:09.553 [main] INFO  testCases.TestCase_001_TimeSheetValidation - displayed tsStatusSentBackforRevisionInfo
+09:56:26.951 [main] INFO  testCases.TestCase_001_TimeSheetValidation - displayed tsStatusSubmittedforApprovalInfo
+09:56:27.070 [main] INFO  testCases.TestCase_001_TimeSheetValidation - ----- closing the browser -----
+09:56:36.740 [main] INFO  testBase.baseClass - closing the browser
+09:57:17.714 [main] INFO  testCases.TestCase_001_TimeSheetValidation - ----- starting TC001_beCognizant -----
+09:57:17.828 [main] INFO  testCases.TestCase_001_TimeSheetValidation - clicked on profile
+09:57:20.834 [main] INFO  testCases.TestCase_001_TimeSheetValidation - verified the account
+09:57:45.484 [main] INFO  testCases.TestCase_001_TimeSheetValidation - opening the OneCognizant
+09:58:05.514 [main] INFO  testCases.TestCase_001_TimeSheetValidation - handled the OneCognizant window
+09:58:05.722 [main] INFO  testCases.TestCase_001_TimeSheetValidation - Navigated to OneCognizant
+09:58:09.728 [main] INFO  testCases.TestCase_001_TimeSheetValidation - opened on Edge.....
+09:58:09.728 [main] INFO  testCases.TestCase_001_TimeSheetValidation - clicked on search Icon
+09:58:11.989 [main] INFO  testCases.TestCase_001_TimeSheetValidation - input timesheet in search bar
+09:58:22.306 [main] INFO  testCases.TestCase_001_TimeSheetValidation - handled the timesheet window
+09:58:22.310 [main] INFO  testCases.TestCase_001_TimeSheetValidation - Navigated to timesheet
+09:58:22.442 [main] INFO  testCases.TestCase_001_TimeSheetValidation - validating the header
+09:58:24.617 [main] INFO  testCases.TestCase_001_TimeSheetValidation - three weeks of timesheet
+09:58:30.079 [main] INFO  testCases.TestCase_001_TimeSheetValidation - Displayed current week
+09:58:50.919 [main] INFO  testCases.TestCase_001_TimeSheetValidation - displayed  tsStatusApprovedInfo
+09:59:00.292 [main] INFO  testCases.TestCase_001_TimeSheetValidation - displayed tsStatusOverdueInfo
+09:59:09.686 [main] INFO  testCases.TestCase_001_TimeSheetValidation - displayed tsStatusPartiallyApprovedInfo
+09:59:19.174 [main] INFO  testCases.TestCase_001_TimeSheetValidation - displayed tsStatusPendingInfo 
+09:59:28.536 [main] INFO  testCases.TestCase_001_TimeSheetValidation - displayed tsStatusSavedInfo
+09:59:37.915 [main] INFO  testCases.TestCase_001_TimeSheetValidation - displayed tsStatusSentBackforRevisionInfo
+09:59:55.339 [main] INFO  testCases.TestCase_001_TimeSheetValidation - displayed tsStatusSubmittedforApprovalInfo
+09:59:55.503 [main] INFO  testCases.TestCase_001_TimeSheetValidation - ----- closing the browser -----
+10:00:06.798 [main] INFO  testBase.baseClass - closing the browser
+15:58:29.017 [main] INFO  testCases.TestCase_001_TimeSheetValidation - ----- starting TC001_beCognizant -----
+15:58:29.143 [main] INFO  testCases.TestCase_001_TimeSheetValidation - clicked on profile
+15:58:32.156 [main] INFO  testCases.TestCase_001_TimeSheetValidation - verified the account
+15:58:57.724 [main] INFO  testCases.TestCase_001_TimeSheetValidation - opening the OneCognizant
+15:59:17.761 [main] INFO  testCases.TestCase_001_TimeSheetValidation - handled the OneCognizant window
+15:59:17.997 [main] INFO  testCases.TestCase_001_TimeSheetValidation - Navigated to OneCognizant
+15:59:22.009 [main] INFO  testCases.TestCase_001_TimeSheetValidation - opened on Edge.....
+15:59:22.009 [main] INFO  testCases.TestCase_001_TimeSheetValidation - clicked on search Icon
+15:59:22.871 [main] INFO  testCases.TestCase_001_TimeSheetValidation - input timesheet in search bar
+15:59:33.146 [main] INFO  testCases.TestCase_001_TimeSheetValidation - handled the timesheet window
+15:59:33.148 [main] INFO  testCases.TestCase_001_TimeSheetValidation - Navigated to timesheet
+15:59:33.292 [main] INFO  testCases.TestCase_001_TimeSheetValidation - validating the header
+15:59:35.536 [main] INFO  testCases.TestCase_001_TimeSheetValidation - three weeks of timesheet
+15:59:41.091 [main] INFO  testCases.TestCase_001_TimeSheetValidation - Displayed current week
+16:00:02.190 [main] INFO  testCases.TestCase_001_TimeSheetValidation - displayed  tsStatusApprovedInfo
+16:00:11.547 [main] INFO  testCases.TestCase_001_TimeSheetValidation - displayed tsStatusOverdueInfo
+16:00:20.885 [main] INFO  testCases.TestCase_001_TimeSheetValidation - displayed tsStatusPartiallyApprovedInfo
